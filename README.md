@@ -14,4 +14,4 @@
 <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
 <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
-[![the-iian GitHub stats](https://github-readme-stats.vercel.app/api?username=the-iian0&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/the-iian/github-readme-stats)
+[![the-iian GitHub stats](https://github-readme-stats.vercel.app/api?username=the-iian&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/the-iian/github-readme-stats)
