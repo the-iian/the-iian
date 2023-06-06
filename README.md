@@ -5,7 +5,7 @@
 ---
 
 <br>
-<!--Dev's log--> 
+## Dev's log 
 <div style="display:flex; flex-direction:row;">
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme=default)](https://cdilg.tistory.com)
@@ -14,7 +14,7 @@
 
 <br>
   
-<!--##Tec stack-->
+## Tec stack
 
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />  
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
