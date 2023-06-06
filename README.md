@@ -8,6 +8,6 @@
 
 <br>
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme=dark)](https://cdilg.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme=vue)](https://cdilg.tistory.com)
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cdilg&theme=default)](https://cdilg.tistory.com)
