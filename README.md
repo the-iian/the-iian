@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 
-<img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat&logo=SPRING BOOT&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge=SPRING BOOT&logoColor=white"/>
 <img src="https://img.shields.io/badge/-spring boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   
 <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
