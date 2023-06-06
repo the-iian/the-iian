@@ -5,14 +5,11 @@
 
 
 
-<br>
-
 ## 💻Dev's log 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme=default)](https://cdilg.tistory.com)
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cdilg&theme=default)](https://cdilg.tistory.com)
 
-<br>
   
 ## 📎Teck stack
 
