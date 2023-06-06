@@ -13,7 +13,6 @@
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cdilg&theme=default)](https://cdilg.tistory.com)
 
 <br>
-<br>
   
 <!--##Tec stack-->
 
@@ -27,4 +26,4 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" /><br>
