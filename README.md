@@ -11,6 +11,6 @@
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=cdilg)](https://github.com/loosie/github-readme-tistory-card)
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cdilg&postId=default)](https://cdilg.tistory.com)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://cdilg.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cdilg&theme=default)](https://cdilg.tistory.com)
+
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
