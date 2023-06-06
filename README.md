@@ -2,6 +2,8 @@
 
 <!-- 주석처리 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthe-iian&count_bg=%2339468C&title_bg=%2339468C&icon=&icon_color=%23FFFFFF&title=total&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
