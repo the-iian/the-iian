@@ -5,6 +5,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthe-iian&count_bg=%23B0DAF9&title_bg=%23B0DAF9&icon=&icon_color=%23251D1D&title=view&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![the-iian GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=the-iian&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/the-iian/github-readme-stats#gh-light-mode-only)
+[![the-iian GitHub stats](https://github-readme-stats.vercel.app/api?username=the-iian)](https://github.com/the-iian/github-readme-stats)
 
 [![the-iian GitHub stats](https://github-readme-stats.vercel.app/api?username=the-iian&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/the-iian/github-readme-stats)
