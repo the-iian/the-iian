@@ -8,6 +8,8 @@
 
 <br>
 ## 💻 Dev's log 💻
+---
+
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme=vue)](https://cdilg.tistory.com)
 
