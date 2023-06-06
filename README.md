@@ -9,6 +9,6 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/-eclipse%20-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" /><img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=cdilg&theme=blue)](https://cdilg.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=cdilg&theme=dark)](https://cdilg.tistory.com)
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cdilg&theme=default)](https://cdilg.tistory.com)
