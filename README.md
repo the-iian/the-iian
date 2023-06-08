@@ -24,5 +24,5 @@
 
 
 <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
-<img src="https://img.shields.io/badge/VS code-007ACC?.svg?style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/VS code-007ACC?.svg?&style=for-the-badge&logo=Visual Studio CodeColor=white" />
 <img style="height:20px;" src="https://img.shields.io/badge/VS code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
