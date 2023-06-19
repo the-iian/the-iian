@@ -12,7 +12,7 @@
 <br>
   
   
-!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-iian&layout=compact)](https://github.com/the-iian/github-readme-stats) --!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-iian&layout=compact)](https://github.com/the-iian/github-readme-stats)
 <br>
 
 ## 📌Teck stack
