@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=I%20An&fontSize=90&fontAlign=62&fontAlignY=32&desc=the-iian&descSize=25&descAlign=85&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Jung%20I%20An&fontSize=90&fontAlign=62&fontAlignY=32&desc=the-iian&descSize=25&descAlign=85&descAlignY=50)
 <h3 align="center">🛠 Teck Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"></a>&nbsp
