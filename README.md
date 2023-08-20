@@ -26,15 +26,14 @@
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Discord-5662F6?style=flat&logo=discord&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"></a>&nbsp
 </p>
-<h3 align="center"> 📑 Dev's log 📑 </h3>
+<h3 align="center"> 📑 About Me 📑 </h3>
+
 <p align="center">
-  <a href="https://cdilg.tistory.com"><img src="https://img.shields.io/badge/Tistory-F24E1E?style=flat&logo=Tistory&logoColor=white&link=https://cdilg.tistory.com"/></a>&nbsp 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthe-iian&count_bg=%23629FCD&title_bg=%23292929&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  <a href="https://cdilg.tistory.com"><img src="https://img.shields.io/badge/Tistory-58CCFF?style=flat&logo=Tistory&logoColor=white&link=https://cdilg.tistory.com"/></a>&nbsp 
+  <a href="yiaahn@gmail.com"><img src="https://img.shields.io/badge/Gmail-E4405F?style=flat&logo=Gmail&logoColor=white&link=yiaahn@gmail.com"/></a>&nbsp
 </p>
 <br>
 
