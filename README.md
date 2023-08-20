@@ -32,8 +32,8 @@
 <h3 align="center"> 📑 About Me 📑 </h3>
 
 <p align="center">
-  <a href="https://cdilg.tistory.com"><img src="https://img.shields.io/badge/Tistory-58CCFF?style=flat&logo=Tistory&logoColor=white&link=https://cdilg.tistory.com"/></a>&nbsp 
-  <a href="yiaahn@gmail.com"><img src="https://img.shields.io/badge/Gmail-E4405F?style=flat&logo=Gmail&logoColor=white&link=yiaahn@gmail.com"/></a>&nbsp
+  <a href="https://cdilg.tistory.com"><img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=black&link=https://cdilg.tistory.com"/></a>&nbsp 
+  <a href="mailto:yiaahn@gmail.com"><img src="https://img.shields.io/badge/Gmail-E4405F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yiaahn@gmail.com"/></a>
 </p>
 <br>
 
