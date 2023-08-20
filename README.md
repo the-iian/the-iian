@@ -1,23 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=ian's%20GitHub✨%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<div align="center">
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Jung%20I%20rang&fontSize=90&fontAlign=62&fontAlignY=32&desc=the-iian&descSize=25&descAlign=85&descAlignY=50)
+<h3 align="center">🛠 Teck Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring boot&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon aws&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/VS code-007ACC?.svg?&style=flat&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=CSS3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?&style=flat&logo=oracle&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/intellij-000000?style=flat&logo=Intellij&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?&style=flat&logo=eclipse&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"></a>&nbsp
+</p>
+<h3 align="center"> 📑 Dev's log 📑 </h3>
+<p align="center">
+  <a href="https://cdilg.tistory.com"><img src="https://img.shields.io/badge/Tistory-F24E1E?style=flat&logo=Tistory&logoColor=white&link=https://cdilg.tistory.com"/></a>&nbsp 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthe-iian&count_bg=%23629FCD&title_bg=%23292929&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-
-
-## 💻Dev's log 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme=dark)](https://cdilg.tistory.com)
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=cdilg&theme=default)](https://cdilg.tistory.com)
-<br>
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-iian&layout=compact)](https://github.com/the-iian/github-readme-stats)
+</p>
 <br>
 
-## 📌Teck stack
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
 
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-<img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" /> <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <br> <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/VS code-007ACC?.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
-<br>
+</div>
