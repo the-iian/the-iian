@@ -29,14 +29,14 @@
   <img src="https://img.shields.io/badge/Discord-5662F6?style=flat&logo=discord&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"></a>&nbsp
 </p>
-<h3 align="center"> 📑 About Me 📑 </h3>
+<h3 align="center"> 📬 Contacts 📬 </h3>
 
 <p align="center">
   <a href="https://cdilg.tistory.com"><img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=black&link=https://cdilg.tistory.com"/></a>&nbsp 
   <a href="mailto:yiaahn@gmail.com"><img src="https://img.shields.io/badge/Gmail-E4405F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yiaahn@gmail.com"/></a>
 </p>
 <br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
+  
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
 
 </div>
