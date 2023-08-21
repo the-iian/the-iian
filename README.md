@@ -10,20 +10,20 @@
   <img src="https://img.shields.io/badge/JPA-BAAE7F?style=flat&logo=JPA&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/H2 Database-1F4668?style=flat&logo=H2&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon aws&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/VS code-007ACC?.svg?&style=flat&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=CSS3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Oracle-%23F80000.svg?&style=flat&logo=oracle&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?&style=flat&logo=eclipse&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white"</a>&nbsp
+  <img src="https://img.shields.io/badge/VS code-007ACC?.svg?&style=flat&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Discord-5662F6?style=flat&logo=discord&logoColor=white"></a>&nbsp
