@@ -26,8 +26,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/Discord-5662F6?style=flat&logo=discord&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"></a>&nbsp
+
+<!-- <img src="https://img.shields.io/badge/Discord-5662F6?style=flat&logo=discord&logoColor=white"></a>&nbsp
+     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"></a>&nbsp -->
 </p>
 
 <h3 align="center"> 📬 Contacts 📬 </h3>
